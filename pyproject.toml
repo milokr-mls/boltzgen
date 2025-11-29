@@ -26,7 +26,7 @@ dependencies = [
     "scikit-learn",
     "hydra-core",
     "edit_distance",
-    "pytorch-lightning",
+    "pytorch-lightning==2.5.1",
     "rdkit",
     "pandas",
     "pdbeccdutils",
