@@ -22,7 +22,7 @@ dependencies = [
     "pydssp",
     "logomaker",
     "gemmi==0.6.5",
-    "torch==2.4.1",
+    "torch==2.5.0",
     "scikit-learn",
     "hydra-core",
     "edit_distance",
